@@ -1,0 +1,1 @@
+This is a collection of tweets downloaded during the european election in the 2019, using the tweet API. The hashtag used was #EUelections2019, and the .csv file is a merge of 4 different JSON ones. The database is supposed to be suitable for a text mining purposes.
